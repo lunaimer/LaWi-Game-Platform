@@ -1,2 +1,15 @@
-# LaWi-Game-Platform
-LaWi Game Platform: A Pygame-based collection of 4 games (Space Escape, Astro Wars, Snake Adventure, Fish Hunt). Features user authentication, SQLite database, and modular architecture with Tkinter GUI.
+# LaWi Oyun Platformu
+
+Python ve Pygame ile geliştirilmiş 4 farklı oyunu tek platformda birleştiren kapsamlı oyun koleksiyonu.
+
+## 🎮 Oyunlar
+- **Uzay Kaçışı** - Asteroidlerden kaçma
+- **Astro Savaşları** - Uzay savaşları  
+- **Yılan Macerası** - Klasik yılan oyunu
+- **Balık Avı** - Hedef avlama
+
+## 🛠️ Teknolojiler
+- Python, Pygame, Tkinter
+- SQLite veritabanı
+- Modüler mimari
+- Kullanıcı giriş/kayıt sistemi
